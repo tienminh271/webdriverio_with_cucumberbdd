@@ -26,10 +26,12 @@
     "@wdio/mocha-framework": "^7.4.6",
     "@wdio/selenium-standalone-service": "^7.5.0",
     "@wdio/spec-reporter": "^7.4.3",
+    "chai": "^4.3.4",
     "chromedriver": "^90.0.0",
     "wdio-chromedriver-service": "^7.0.0",
     "wdio-cucumber-reporter": "0.0.2",
     "wdio-docker-service": "^3.1.2",
     "wdio-json-reporter": "^2.0.0"
-  }
+  },
+  "dependencies": {}
 }
